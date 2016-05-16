@@ -3,6 +3,11 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
+        <Folder Name="Assets">
+          <Image Name="fish1.png" />
+          <Image Name="background.jpg" />
+        </Folder>
+        <Project Name="Character.csd" Type="Node" />
         <Image Name="HelloWorld.png" />
         <Project Name="MainScene.csd" Type="Scene" />
       </RootFolder>
